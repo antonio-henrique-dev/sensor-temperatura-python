@@ -1,0 +1,1168 @@
+Alerta, 31 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+28 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+25 C°  Temperatura Normal!
+Alerta, 33 C°  Temperatura Alta!
+Alerta, 35 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+Alerta, 35 C°  Temperatura Alta!
+24 C°  Temperatura Normal!
+28 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+22 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+Alerta, 35 C°  Temperatura Alta!
+Alerta, 34 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+23 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+23 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+28 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+25 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+23 C°  Temperatura Normal!
+Alerta, 33 C°  Temperatura Alta!
+Alerta, 35 C°  Temperatura Alta!
+23 C°  Temperatura Normal!
+28 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+30 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+Alerta, 36 C°  Temperatura Alta!
+24 C°  Temperatura Normal!
+Alerta, 33 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+23 C°  Temperatura Normal!
+22 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+20 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+25 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+21 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 34 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+24 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+24 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+21 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+22 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+Alerta, 35 C°  Temperatura Alta!
+Alerta, 36 C°  Temperatura Alta!
+Alerta, 31 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+23 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+22 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+20 C°  Temperatura Normal!
+28 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+Alerta, 34 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+23 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+28 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+Alerta, 35 C°  Temperatura Alta!
+30 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+24 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+23 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+Alerta, 35 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+Alerta, 33 C°  Temperatura Alta!
+23 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+28 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+Alerta, 33 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+Alerta, 40 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+30 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+23 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+30 C°  Temperatura Normal!
+23 C°  Temperatura Normal!
+Alerta, 35 C°  Temperatura Alta!
+21 C°  Temperatura Normal!
+Alerta, 33 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+21 C°  Temperatura Normal!
+Alerta, 35 C°  Temperatura Alta!
+Alerta, 31 C°  Temperatura Alta!
+Alerta, 33 C°  Temperatura Alta!
+Alerta, 40 C°  Temperatura Alta!
+30 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+Alerta, 35 C°  Temperatura Alta!
+Alerta, 35 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+28 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+Alerta, 32 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+Alerta, 35 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+22 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+Alerta, 36 C°  Temperatura Alta!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+30 C°  Temperatura Normal!
+22 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+Alerta, 31 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+20 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+Alerta, 31 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+Alerta, 35 C°  Temperatura Alta!
+Alerta, 31 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+Alerta, 36 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+Alerta, 35 C°  Temperatura Alta!
+30 C°  Temperatura Normal!
+23 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+Alerta, 31 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+Alerta, 33 C°  Temperatura Alta!
+Alerta, 32 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+Alerta, 32 C°  Temperatura Alta!
+Alerta, 40 C°  Temperatura Alta!
+25 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+25 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+24 C°  Temperatura Normal!
+22 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+23 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 33 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+23 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+Alerta, 33 C°  Temperatura Alta!
+Alerta, 31 C°  Temperatura Alta!
+25 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+24 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+25 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+25 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+30 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+23 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+23 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+24 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+22 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+Alerta, 36 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+Alerta, 33 C°  Temperatura Alta!
+Alerta, 34 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+20 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+Alerta, 32 C°  Temperatura Alta!
+23 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+20 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 32 C°  Temperatura Alta!
+Alerta, 33 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+Alerta, 36 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+Alerta, 32 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+Alerta, 31 C°  Temperatura Alta!
+30 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+Alerta, 33 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+Alerta, 33 C°  Temperatura Alta!
+Alerta, 33 C°  Temperatura Alta!
+30 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+23 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+23 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+Alerta, 35 C°  Temperatura Alta!
+Alerta, 33 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+24 C°  Temperatura Normal!
+23 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+Alerta, 33 C°  Temperatura Alta!
+Alerta, 36 C°  Temperatura Alta!
+21 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+23 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+25 C°  Temperatura Normal!
+Alerta, 35 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+21 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+24 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+22 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+Alerta, 34 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+30 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+Alerta, 31 C°  Temperatura Alta!
+Alerta, 36 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+Alerta, 35 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+23 C°  Temperatura Normal!
+Alerta, 39 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+Alerta, 33 C°  Temperatura Alta!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+20 C°  Temperatura Normal!
+28 C°  Temperatura Normal!
+22 C°  Temperatura Normal!
+22 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+20 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+30 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+Alerta, 40 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+28 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+Alerta, 33 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+Alerta, 33 C°  Temperatura Alta!
+24 C°  Temperatura Normal!
+Alerta, 35 C°  Temperatura Alta!
+Alerta, 32 C°  Temperatura Alta!
+20 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+Alerta, 34 C°  Temperatura Alta!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+25 C°  Temperatura Normal!
+Alerta, 35 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+Alerta, 31 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+23 C°  Temperatura Normal!
+23 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+20 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+Alerta, 35 C°  Temperatura Alta!
+21 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+21 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+24 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+28 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+24 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+[07/04 23:54:32] 28 C° Temperatura Normal!
+[07/04 23:54:34] 27 C° Temperatura Normal!
+[07/04 23:54:36] Alerta, 31 C° Temperatura Alta!
+[07/04 23:54:38] 27 C° Temperatura Normal!
+[07/04 23:54:40] 26 C° Temperatura Normal!
+[07/04 23:54:42] Alerta, 38 C° Temperatura Alta!
+[07/04 23:54:44] Alerta, 39 C° Temperatura Alta!
+[07/04 23:54:46] Alerta, 36 C° Temperatura Alta!
+[07/04 23:54:48] Alerta, 32 C° Temperatura Alta!
+26 C°  Temperatura Normal!
+23 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+24 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+Alerta, 33 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+30 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+21 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+27 C°  Temperatura Normal!
+Alerta, 36 C°  Temperatura Alta!
+Alerta, 40 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+25 C°  Temperatura Normal!
+Alerta, 40 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+25 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+22 C°  Temperatura Normal!
+Alerta, 37 C°  Temperatura Alta!
+22 C°  Temperatura Normal!
+Alerta, 31 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+Alerta, 32 C°  Temperatura Alta!
+29 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+30 C°  Temperatura Normal!
+Alerta, 35 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+Alerta, 31 C°  Temperatura Alta!
+Alerta, 34 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+Alerta, 34 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+Alerta, 39 C°  Temperatura Alta!
+20 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+23 C°  Temperatura Normal!
+Alerta, 32 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+20 C°  Temperatura Normal!
+Alerta, 35 C°  Temperatura Alta!
+Alerta, 38 C°  Temperatura Alta!
+28 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+29 C°  Temperatura Normal!
+27 C°  Temperatura Normal!
+26 C°  Temperatura Normal!
+Alerta, 38 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+Alerta, 37 C°  Temperatura Alta!
+26 C°  Temperatura Normal!
+Alerta, 32 C° Temperatural Alta! 
+30 C° Temperatura Normal!
+24 C° Temperatura Normal!
+25 C° Temperatura Normal!
+22 C° Temperatura Normal!
+Alerta, 31 C° Temperatural Alta! 
+Alerta, 32 C° Temperatural Alta! 
+26 C° Temperatura Normal!
+Alerta, 40 C° Temperatural Alta! 
+Alerta, 31 C° Temperatural Alta! 
+Alerta, 38 C° Temperatural Alta! 
+Alerta, 31 C° Temperatural Alta! 
+21 C° Temperatura Normal!
+26 C° Temperatura Normal!
+21 C° Temperatura Normal!
+29 C° Temperatura Normal!
+Alerta, 38 C° Temperatural Alta! 
+26 C° Temperatura Normal!
+Alerta, 39 C° Temperatural Alta! 
+Alerta, 31 C° Temperatural Alta! 
+Alerta, 34 C° Temperatural Alta! 
+Alerta, 35 C° Temperatural Alta! 
+24 C° Temperatura Normal!
+24 C° Temperatura Normal!
+Alerta, 39 C° Temperatural Alta! 
+29 C° Temperatura Normal!
+Alerta, 32 C° Temperatural Alta! 
+26 C° Temperatura Normal!
+Alerta, 40 C° Temperatural Alta! 
+24 C° Temperatura Normal!
+21 C° Temperatura Normal!
+21 C° Temperatura Normal!
+22 C° Temperatura Normal!
+Alerta, 36 C° Temperatural Alta! 
+Alerta, 31 C° Temperatural Alta! 
+Alerta, 33 C° Temperatural Alta! 
+Alerta, 40 C° Temperatural Alta! 
+Alerta, 33 C° Temperatural Alta! 
+Alerta, 33 C° Temperatural Alta! 
+21 C° Temperatura Normal!
+21 C° Temperatura Normal!
+Alerta, 32 C° Temperatural Alta! 
+25 C° Temperatura Normal!
+29 C° Temperatura Normal!
+Alerta, 40 C° Temperatural Alta! 
+Alerta, 38 C° Temperatural Alta! 
+29 C° Temperatura Normal!
+21 C° Temperatura Normal!
+26 C° Temperatura Normal!
+Alerta, 37 C° Temperatural Alta! 
+24 C° Temperatura Normal!
+Alerta, 35 C° Temperatural Alta! 
+29 C° Temperatura Normal!
+Alerta, 37 C° Temperatural Alta! 
+Alerta, 39 C° Temperatural Alta! 
+25 C° Temperatura Normal!
+25 C° Temperatura Normal!
+26 C° Temperatura Normal!
+Alerta, 32 C° Temperatural Alta! 
+Alerta, 38 C° Temperatural Alta! 
+Alerta, 31 C° Temperatural Alta! 
+Alerta, 31 C° Temperatural Alta! 
+29 C° Temperatura Normal!
+Alerta, 31 C° Temperatural Alta! 
+22 C° Temperatura Normal!
+25 C° Temperatura Normal!
+Alerta, 35 C° Temperatural Alta! 
+30 C° Temperatura Normal!
+Alerta, 39 C° Temperatural Alta! 
+Alerta, 34 C° Temperatural Alta! 
+Alerta, 32 C° Temperatural Alta! 
+20 C° Temperatura Normal!
+Alerta, 40 C° Temperatural Alta! 
+23 C° Temperatura Normal!
+30 C° Temperatura Normal!
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 37 C° Temperatura Alta! 
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 33 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+Alerta, 32 C° Temperatura Alta! 
+30 C° Temperatura Normal!
+Alerta, 37 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+20 C° Temperatura Normal!
+Alerta, 37 C° Temperatura Alta! 
+30 C° Temperatura Normal!
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 38 C° Temperatura Alta! 
+22 C° Temperatura Normal!
+23 C° Temperatura Normal!
+Alerta, 37 C° Temperatura Alta! 
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 38 C° Temperatura Alta! 
+Alerta, 36 C° Temperatura Alta! 
+30 C° Temperatura Normal!
+20 C° Temperatura Normal!
+Alerta, 32 C° Temperatura Alta! 
+28 C° Temperatura Normal!
+Alerta, 32 C° Temperatura Alta! 
+25 C° Temperatura Normal!
+Alerta, 34 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+30 C° Temperatura Normal!
+Alerta, 32 C° Temperatura Alta! 
+Alerta, 34 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+20 C° Temperatura Normal!
+25 C° Temperatura Normal!
+24 C° Temperatura Normal!
+Alerta, 39 C° Temperatura Alta! 
+26 C° Temperatura Normal!
+20 C° Temperatura Normal!
+27 C° Temperatura Normal!
+26 C° Temperatura Normal!
+27 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+20 C° Temperatura Normal!
+30 C° Temperatura Normal!
+Alerta, 32 C° Temperatura Alta! 
+Alerta, 38 C° Temperatura Alta! 
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 33 C° Temperatura Alta! 
+Alerta, 37 C° Temperatura Alta! 
+30 C° Temperatura Normal!
+26 C° Temperatura Normal!
+20 C° Temperatura Normal!
+25 C° Temperatura Normal!
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 36 C° Temperatura Alta! 
+Alerta, 34 C° Temperatura Alta! 
+30 C° Temperatura Normal!
+24 C° Temperatura Normal!
+30 C° Temperatura Normal!
+28 C° Temperatura Normal!
+25 C° Temperatura Normal!
+30 C° Temperatura Normal!
+Alerta, 35 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 35 C° Temperatura Alta! 
+Alerta, 39 C° Temperatura Alta! 
+24 C° Temperatura Normal!
+Alerta, 38 C° Temperatura Alta! 
+Alerta, 32 C° Temperatura Alta! 
+Alerta, 36 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 31 C° Temperatura Alta! 
+25 C° Temperatura Normal!
+28 C° Temperatura Normal!
+Alerta, 32 C° Temperatura Alta! 
+24 C° Temperatura Normal!
+20 C° Temperatura Normal!
+29 C° Temperatura Normal!
+Alerta, 39 C° Temperatura Alta! 
+Alerta, 33 C° Temperatura Alta! 
+Alerta, 40 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+Alerta, 35 C° Temperatura Alta! 
+26 C° Temperatura Normal!
+28 C° Temperatura Normal!
+29 C° Temperatura Normal!
+21 C° Temperatura Normal!
+Alerta, 34 C° Temperatura Alta! 
+Alerta, 37 C° Temperatura Alta! 
+25 C° Temperatura Normal!
+29 C° Temperatura Normal!
+29 C° Temperatura Normal!
+28 C° Temperatura Normal!
+28 C° Temperatura Normal!
+Alerta, 34 C° Temperatura Alta! 
+23 C° Temperatura Normal!
+Alerta, 40 C° Temperatura Alta! 
+Alerta, 36 C° Temperatura Alta! 
+25 C° Temperatura Normal!
+24 C° Temperatura Normal!
+20 C° Temperatura Normal!
+21 C° Temperatura Normal!
+Alerta, 35 C° Temperatura Alta! 
+20 C° Temperatura Normal!
+29 C° Temperatura Normal!
+Alerta, 36 C° Temperatura Alta! 
+30 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+24 C° Temperatura Normal!
+20 C° Temperatura Normal!
+27 C° Temperatura Normal!
+Alerta, 34 C° Temperatura Alta! 
+Alerta, 36 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 32 C° Temperatura Alta! 
+Alerta, 32 C° Temperatura Alta! 
+Alerta, 36 C° Temperatura Alta! 
+Alerta, 35 C° Temperatura Alta! 
+22 C° Temperatura Normal!
+24 C° Temperatura Normal!
+23 C° Temperatura Normal!
+Alerta, 36 C° Temperatura Alta! 
+26 C° Temperatura Normal!
+29 C° Temperatura Normal!
+30 C° Temperatura Normal!
+24 C° Temperatura Normal!
+Alerta, 32 C° Temperatura Alta! 
+Alerta, 36 C° Temperatura Alta! 
+Alerta, 34 C° Temperatura Alta! 
+24 C° Temperatura Normal!
+Alerta, 40 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+26 C° Temperatura Normal!
+Alerta, 39 C° Temperatura Alta! 
+28 C° Temperatura Normal!
+Alerta, 37 C° Temperatura Alta! 
+30 C° Temperatura Normal!
+24 C° Temperatura Normal!
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 38 C° Temperatura Alta! 
+Alerta, 36 C° Temperatura Alta! 
+Alerta, 33 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 37 C° Temperatura Alta! 
+Alerta, 33 C° Temperatura Alta! 
+Alerta, 33 C° Temperatura Alta! 
+Alerta, 33 C° Temperatura Alta! 
+28 C° Temperatura Normal!
+Alerta, 36 C° Temperatura Alta! 
+24 C° Temperatura Normal!
+22 C° Temperatura Normal!
+29 C° Temperatura Normal!
+20 C° Temperatura Normal!
+Alerta, 32 C° Temperatura Alta! 
+Alerta, 35 C° Temperatura Alta! 
+Alerta, 36 C° Temperatura Alta! 
+Alerta, 32 C° Temperatura Alta! 
+30 C° Temperatura Normal!
+28 C° Temperatura Normal!
+22 C° Temperatura Normal!
+Alerta, 37 C° Temperatura Alta! 
+Alerta, 39 C° Temperatura Alta! 
+28 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+Alerta, 35 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 36 C° Temperatura Alta! 
+Alerta, 35 C° Temperatura Alta! 
+Alerta, 34 C° Temperatura Alta! 
+26 C° Temperatura Normal!
+20 C° Temperatura Normal!
+27 C° Temperatura Normal!
+20 C° Temperatura Normal!
+29 C° Temperatura Normal!
+30 C° Temperatura Normal!
+25 C° Temperatura Normal!
+29 C° Temperatura Normal!
+Alerta, 38 C° Temperatura Alta! 
+Alerta, 36 C° Temperatura Alta! 
+20 C° Temperatura Normal!
+26 C° Temperatura Normal!
+Alerta, 40 C° Temperatura Alta! 
+Alerta, 34 C° Temperatura Alta! 
+Alerta, 40 C° Temperatura Alta! 
+30 C° Temperatura Normal!
+Alerta, 31 C° Temperatura Alta! 
+29 C° Temperatura Normal!
+28 C° Temperatura Normal!
+Alerta, 34 C° Temperatura Alta! 
+25 C° Temperatura Normal!
+Alerta, 35 C° Temperatura Alta! 
+28 C° Temperatura Normal!
+29 C° Temperatura Normal!
+30 C° Temperatura Normal!
+26 C° Temperatura Normal!
+Alerta, 39 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+Alerta, 32 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+26 C° Temperatura Normal!
+27 C° Temperatura Normal!
+22 C° Temperatura Normal!
+21 C° Temperatura Normal!
+Alerta, 36 C° Temperatura Alta! 
+28 C° Temperatura Normal!
+Alerta, 37 C° Temperatura Alta! 
+25 C° Temperatura Normal!
+Alerta, 34 C° Temperatura Alta! 
+Alerta, 37 C° Temperatura Alta! 
+Alerta, 38 C° Temperatura Alta! 
+Alerta, 37 C° Temperatura Alta! 
+28 C° Temperatura Normal!
+Alerta, 40 C° Temperatura Alta! 
+26 C° Temperatura Normal!
+21 C° Temperatura Normal!
+Alerta, 36 C° Temperatura Alta! 
+20 C° Temperatura Normal!
+28 C° Temperatura Normal!
+Alerta, 36 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+30 C° Temperatura Normal!
+21 C° Temperatura Normal!
+25 C° Temperatura Normal!
+28 C° Temperatura Normal!
+23 C° Temperatura Normal!
+22 C° Temperatura Normal!
+Alerta, 34 C° Temperatura Alta! 
+Alerta, 31 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+25 C° Temperatura Normal!
+Alerta, 32 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 39 C° Temperatura Alta! 
+Alerta, 35 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 36 C° Temperatura Alta! 
+Alerta, 31 C° Temperatura Alta! 
+30 C° Temperatura Normal!
+Alerta, 40 C° Temperatura Alta! 
+28 C° Temperatura Normal!
+Alerta, 35 C° Temperatura Alta! 
+25 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+24 C° Temperatura Normal!
+22 C° Temperatura Normal!
+22 C° Temperatura Normal!
+27 C° Temperatura Normal!
+24 C° Temperatura Normal!
+28 C° Temperatura Normal!
+23 C° Temperatura Normal!
+23 C° Temperatura Normal!
+20 C° Temperatura Normal!
+29 C° Temperatura Normal!
+Alerta, 38 C° Temperatura Alta! 
+23 C° Temperatura Normal!
+22 C° Temperatura Normal!
+25 C° Temperatura Normal!
+25 C° Temperatura Normal!
+Alerta, 35 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+Alerta, 40 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 38 C° Temperatura Alta! 
+Alerta, 34 C° Temperatura Alta! 
+Alerta, 39 C° Temperatura Alta! 
+Alerta, 31 C° Temperatura Alta! 
+25 C° Temperatura Normal!
+23 C° Temperatura Normal!
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 40 C° Temperatura Alta! 
+23 C° Temperatura Normal!
+Alerta, 39 C° Temperatura Alta! 
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 35 C° Temperatura Alta! 
+Alerta, 38 C° Temperatura Alta! 
+26 C° Temperatura Normal!
+25 C° Temperatura Normal!
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 33 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+Alerta, 40 C° Temperatura Alta! 
+Alerta, 33 C° Temperatura Alta! 
+Alerta, 36 C° Temperatura Alta! 
+Alerta, 38 C° Temperatura Alta! 
+23 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+Alerta, 37 C° Temperatura Alta! 
+25 C° Temperatura Normal!
+Alerta, 40 C° Temperatura Alta! 
+Alerta, 34 C° Temperatura Alta! 
+23 C° Temperatura Normal!
+28 C° Temperatura Normal!
+Alerta, 34 C° Temperatura Alta! 
+Alerta, 32 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 40 C° Temperatura Alta! 
+26 C° Temperatura Normal!
+24 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+Alerta, 37 C° Temperatura Alta! 
+23 C° Temperatura Normal!
+Alerta, 38 C° Temperatura Alta! 
+Alerta, 39 C° Temperatura Alta! 
+Alerta, 35 C° Temperatura Alta! 
+Alerta, 36 C° Temperatura Alta! 
+Alerta, 38 C° Temperatura Alta! 
+Alerta, 39 C° Temperatura Alta! 
+Alerta, 32 C° Temperatura Alta! 
+20 C° Temperatura Normal!
+24 C° Temperatura Normal!
+27 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+25 C° Temperatura Normal!
+Alerta, 32 C° Temperatura Alta! 
+24 C° Temperatura Normal!
+Alerta, 36 C° Temperatura Alta! 
+Alerta, 39 C° Temperatura Alta! 
+Alerta, 35 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+Alerta, 40 C° Temperatura Alta! 
+Alerta, 32 C° Temperatura Alta! 
+Alerta, 38 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+22 C° Temperatura Normal!
+22 C° Temperatura Normal!
+27 C° Temperatura Normal!
+Alerta, 39 C° Temperatura Alta! 
+24 C° Temperatura Normal!
+Alerta, 35 C° Temperatura Alta! 
+29 C° Temperatura Normal!
+29 C° Temperatura Normal!
+Alerta, 32 C° Temperatura Alta! 
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 32 C° Temperatura Alta! 
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 32 C° Temperatura Alta! 
+Alerta, 37 C° Temperatura Alta! 
+20 C° Temperatura Normal!
+20 C° Temperatura Normal!
+Alerta, 38 C° Temperatura Alta! 
+29 C° Temperatura Normal!
+Alerta, 35 C° Temperatura Alta! 
+Alerta, 39 C° Temperatura Alta! 
+Alerta, 31 C° Temperatura Alta! 
+Alerta, 35 C° Temperatura Alta! 
+28 C° Temperatura Normal!
+Alerta, 35 C° Temperatura Alta! 
+20 C° Temperatura Normal!
+Alerta, 39 C° Temperatura Alta! 
+24 C° Temperatura Normal!
+22 C° Temperatura Normal!
+Alerta, 39 C° Temperatura Alta! 
+25 C° Temperatura Normal!
+20 C° Temperatura Normal!
+28 C° Temperatura Normal!
+Alerta, 37 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 36 C° Temperatura Alta! 
+Alerta, 38 C° Temperatura Alta! 
+Alerta, 34 C° Temperatura Alta! 
+Alerta, 40 C° Temperatura Alta! 
+29 C° Temperatura Normal!
+20 C° Temperatura Normal!
+Alerta, 35 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+23 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+25 C° Temperatura Normal!
+24 C° Temperatura Normal!
+Alerta, 38 C° Temperatura Alta! 
+24 C° Temperatura Normal!
+25 C° Temperatura Normal!
+Alerta, 37 C° Temperatura Alta! 
+Alerta, 37 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 37 C° Temperatura Alta! 
+Alerta, 37 C° Temperatura Alta! 
+23 C° Temperatura Normal!
+22 C° Temperatura Normal!
+Alerta, 38 C° Temperatura Alta! 
+28 C° Temperatura Normal!
+30 C° Temperatura Normal!
+23 C° Temperatura Normal!
+Alerta, 39 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+26 C° Temperatura Normal!
+30 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+Alerta, 33 C° Temperatura Alta! 
+29 C° Temperatura Normal!
+Alerta, 36 C° Temperatura Alta! 
+25 C° Temperatura Normal!
+Alerta, 35 C° Temperatura Alta! 
+30 C° Temperatura Normal!
+Alerta, 36 C° Temperatura Alta! 
+28 C° Temperatura Normal!
+25 C° Temperatura Normal!
+22 C° Temperatura Normal!
+Alerta, 35 C° Temperatura Alta! 
+26 C° Temperatura Normal!
+21 C° Temperatura Normal!
+21 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+25 C° Temperatura Normal!
+26 C° Temperatura Normal!
+30 C° Temperatura Normal!
+20 C° Temperatura Normal!
+22 C° Temperatura Normal!
+23 C° Temperatura Normal!
+29 C° Temperatura Normal!
+26 C° Temperatura Normal!
+Alerta, 35 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 39 C° Temperatura Alta! 
+Alerta, 40 C° Temperatura Alta! 
+Alerta, 32 C° Temperatura Alta! 
+30 C° Temperatura Normal!
+23 C° Temperatura Normal!
+30 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+23 C° Temperatura Normal!
+Alerta, 34 C° Temperatura Alta! 
+20 C° Temperatura Normal!
+30 C° Temperatura Normal!
+30 C° Temperatura Normal!
+Alerta, 38 C° Temperatura Alta! 
+Alerta, 36 C° Temperatura Alta! 
+23 C° Temperatura Normal!
+25 C° Temperatura Normal!
+Alerta, 37 C° Temperatura Alta! 
+24 C° Temperatura Normal!
+28 C° Temperatura Normal!
+Alerta, 34 C° Temperatura Alta! 
+Alerta, 40 C° Temperatura Alta! 
+27 C° Temperatura Normal!
+Alerta, 40 C° Temperatura Alta! 
+26 C° Temperatura Normal!
+27 C° Temperatura Normal!
+26 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+Alerta, 34 C° Temperatura Alta! 
+Alerta, 38 C° Temperatura Alta! 
+Alerta, 37 C° Temperatura Alta! 
+22 C° Temperatura Normal!
+25 C° Temperatura Normal!
+Alerta, 38 C° Temperatura Alta! 
+20 C° Temperatura Normal!
+20 C° Temperatura Normal!
+21 C° Temperatura Normal!
+25 C° Temperatura Normal!
+24 C° Temperatura Normal!
+30 C° Temperatura Normal!
+29 C° Temperatura Normal!
+30 C° Temperatura Normal!
+24 C° Temperatura Normal!
+Alerta, 40 C° Temperatura Alta! 
+26 C° Temperatura Normal!
+26 C° Temperatura Normal!
+20 C° Temperatura Normal!
+Alerta, 39 C° Temperatura Alta! 
+Alerta, 37 C° Temperatura Alta! 
+30 C° Temperatura Normal!
+30 C° Temperatura Normal!
+29 C° Temperatura Normal!
+22 C° Temperatura Normal!
+Alerta, 40 C° Temperatura Alta! 
+Alerta, 31 C° Temperatura Alta! 
+29 C° Temperatura Normal!
+Alerta, 33 C° Temperatura Alta! 
+Alerta, 40 C° Temperatura Alta! 
+Alerta, 34 C° Temperatura Alta! 
+Alerta, 34 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 38 C° Temperatura Alta! 
+21 C° Temperatura Normal!
+Alerta, 38 C° Temperatura Alta! 
+Alerta, 37 C° Temperatura Alta! 
+22 C° Temperatura Normal!
+Alerta, 36 C° Temperatura Alta! 
