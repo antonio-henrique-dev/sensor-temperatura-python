@@ -1,3 +1,4 @@
+from datetime import datetime
 import random
 import time
 
@@ -10,7 +11,7 @@ def verificar_temperatura(temp):
 
     else:
         return f'{temp} C° Temperatura Normal!'
-
+    
 def salvar_log(mensagem):
     with open('log.txt', 'a') as f:
         f.write(mensagem + '\n')
@@ -20,8 +21,12 @@ while True:
     mensagem = verificar_temperatura(temperatura)
     if temperatura > 30:
         contador_alerta += 1
-    print(f'{mensagem} | Total de Alerta: {contador_alerta} ' )
+    agora = datetime.now()
+    data_formatada = agora.strftime("%Y/%m/%d | %H:%M:%S")
+
+
+    print(f'{mensagem} | Total de Alerta: {contador_alerta} | {data_formatada}' )
        
-    salvar_log(mensagem)
+    salvar_log(f'{mensagem}|{data_formatada}')
     
     time.sleep(2)
