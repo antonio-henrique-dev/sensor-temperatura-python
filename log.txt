@@ -1377,3 +1377,228 @@ Alerta, 34 C° Temperatura Alta! |2026/04/10 | 20:50:37
 30 C° Temperatura Normal!|2026/04/10 | 20:50:39
 27 C° Temperatura Normal!|2026/04/10 | 20:50:41
 Alerta, 37 C° Temperatura Alta! |2026/04/10 | 20:50:43
+zona 3|Alerta, 36 C° Temperatura Alta! |2026/04/10 | 21:56:57|2026/04/10 | 21:56:57
+zona 3|25 C° Temperatura Normal!|2026/04/10 | 21:56:59|2026/04/10 | 21:56:59
+zona 3|Alerta, 36 C° Temperatura Alta! |2026/04/10 | 21:57:01|2026/04/10 | 21:57:01
+zona 3|30 C° Temperatura Normal!|2026/04/10 | 21:57:03|2026/04/10 | 21:57:03
+zona 3|27 C° Temperatura Normal!|2026/04/10 | 21:57:05|2026/04/10 | 21:57:05
+zona 3|26 C° Temperatura Normal!|2026/04/10 | 21:57:07|2026/04/10 | 21:57:07
+zona 3|Alerta, 32 C° Temperatura Alta! |2026/04/10 | 21:57:09|2026/04/10 | 21:57:09
+zona 3|Alerta, 37 C° Temperatura Alta! |2026/04/10 | 21:57:11|2026/04/10 | 21:57:11
+zona 3|26 C° Temperatura Normal!|2026/04/10 | 21:57:13|2026/04/10 | 21:57:13
+zona 3|Alerta, 38 C° Temperatura Alta! |2026/04/10 | 21:57:15|2026/04/10 | 21:57:15
+zona 3|24 C° Temperatura Normal!|2026/04/10 | 21:57:17|2026/04/10 | 21:57:17
+zona 3|30 C° Temperatura Normal!|2026/04/10 | 21:57:19|2026/04/10 | 21:57:19
+zona 3|21 C° Temperatura Normal!|2026/04/10 | 21:57:24|2026/04/10 | 21:57:24
+zona 3|27 C° Temperatura Normal!|2026/04/10 | 21:57:26|2026/04/10 | 21:57:26
+zona 3|Alerta, 38 C° Temperatura Alta! |2026/04/10 | 21:57:28|2026/04/10 | 21:57:28
+zona 3|Alerta, 34 C° Temperatura Alta! |2026/04/10 | 21:57:30|2026/04/10 | 21:57:30
+zona 3|Alerta, 33 C° Temperatura Alta! |2026/04/10 | 21:57:32|2026/04/10 | 21:57:32
+zona 3|30 C° Temperatura Normal!|2026/04/10 | 21:57:34|2026/04/10 | 21:57:34
+zona 3|25 C° Temperatura Normal!|2026/04/10 | 21:57:36|2026/04/10 | 21:57:36
+zona 3|21 C° Temperatura Normal!|2026/04/10 | 21:57:38|2026/04/10 | 21:57:38
+zona 3|27 C° Temperatura Normal!|2026/04/10 | 21:57:40|2026/04/10 | 21:57:40
+zona 3|24 C° Temperatura Normal!|2026/04/10 | 21:57:42|2026/04/10 | 21:57:42
+zona 3|Alerta, 36 C° Temperatura Alta! |2026/04/10 | 22:00:29|2026/04/10 | 22:00:29
+zona 3|Alerta, 34 C° Temperatura Alta! |2026/04/10 | 22:00:31|2026/04/10 | 22:00:31
+zona 3|30 C° Temperatura Normal!|2026/04/10 | 22:00:33|2026/04/10 | 22:00:33
+zona 3|29 C° Temperatura Normal!|2026/04/10 | 22:00:35|2026/04/10 | 22:00:35
+zona 3|Alerta, 38 C° Temperatura Alta! |2026/04/10 | 22:00:59|2026/04/10 | 22:00:59
+zona 3|Alerta, 38 C° Temperatura Alta! |2026/04/10 | 22:01:01|2026/04/10 | 22:01:01
+zona 3|Alerta, 40 C° Temperatura Alta! |2026/04/10 | 22:01:03|2026/04/10 | 22:01:03
+zona 3|Alerta, 38 C° Temperatura Alta! |2026/04/10 | 22:01:05|2026/04/10 | 22:01:05
+zona 3|23 C° Temperatura Normal!|2026/04/10 | 22:01:07|2026/04/10 | 22:01:07
+zona 3|21 C° Temperatura Normal!|2026/04/10 | 22:01:09|2026/04/10 | 22:01:09
+zona 3|Alerta, 36 C° Temperatura Alta! |2026/04/10 | 22:01:11|2026/04/10 | 22:01:11
+zona 3|28 C° Temperatura Normal!|2026/04/10 | 22:01:13|2026/04/10 | 22:01:13
+zona 3|24 C° Temperatura Normal!|2026/04/10 | 22:01:15|2026/04/10 | 22:01:15
+zona 3|30 C° Temperatura Normal!|2026/04/10 | 22:01:17|2026/04/10 | 22:01:17
+zona 3|27 C° Temperatura Normal!|2026/04/10 | 22:01:19|2026/04/10 | 22:01:19
+zona 3|26 C° Temperatura Normal!|2026/04/10 | 22:01:21|2026/04/10 | 22:01:21
+zona 3|Alerta, 31 C° Temperatura Alta! |2026/04/10 | 22:01:23|2026/04/10 | 22:01:23
+zona 3|Alerta, 32 C° Temperatura Alta! |2026/04/10 | 22:02:22|2026/04/10 | 22:02:22
+zona 3|27 C° Temperatura Normal!|2026/04/10 | 22:02:24|2026/04/10 | 22:02:24
+zona 3|Alerta, 35 C° Temperatura Alta! |2026/04/10 | 22:02:26|2026/04/10 | 22:02:26
+zona 3|30 C° Temperatura Normal!|2026/04/10 | 22:02:28|2026/04/10 | 22:02:28
+zona 3|22 C° Temperatura Normal!|2026/04/10 | 22:02:30|2026/04/10 | 22:02:30
+zona 3|22 C° Temperatura Normal!|2026/04/10 | 22:02:32|2026/04/10 | 22:02:32
+zona 3|24 C° Temperatura Normal!|2026/04/10 | 22:02:34|2026/04/10 | 22:02:34
+zona 3|24 C° Temperatura Normal!|2026/04/10 | 22:02:36|2026/04/10 | 22:02:36
+zona 3|Alerta, 40 C° Temperatura Alta! |2026/04/10 | 22:02:41|2026/04/10 | 22:02:41
+zona 3|Alerta, 38 C° Temperatura Alta! |2026/04/10 | 22:02:43|2026/04/10 | 22:02:43
+zona 3|Alerta, 37 C° Temperatura Alta! |2026/04/10 | 22:08:24|2026/04/10 | 22:08:24
+zona 3|Alerta, 36 C° Temperatura Alta! |2026/04/10 | 22:08:26|2026/04/10 | 22:08:26
+zona 3|21 C° Temperatura Normal!|2026/04/10 | 22:08:31|2026/04/10 | 22:08:31
+zona 3|Alerta, 35 C° Temperatura Alta! |2026/04/10 | 22:08:33|2026/04/10 | 22:08:33
+zona 3|Alerta, 35 C° Temperatura Alta! |2026/04/10 | 22:08:35|2026/04/10 | 22:08:35
+zona 3|29 C° Temperatura Normal!|2026/04/10 | 22:08:37|2026/04/10 | 22:08:37
+zona 3|20 C° Temperatura Normal!|2026/04/10 | 22:08:39|2026/04/10 | 22:08:39
+zona 3|Alerta, 39 C° Temperatura Alta! |2026/04/10 | 22:08:41|2026/04/10 | 22:08:41
+zona 3|23 C° Temperatura Normal!||2026/04/10 | 22:09:15
+zona 3|Alerta, 33 C° Temperatura Alta! ||2026/04/10 | 22:09:17
+zona 3|24 C° Temperatura Normal!||2026/04/10 | 22:09:19
+zona 3|21 C° Temperatura Normal!||2026/04/10 | 22:09:21
+zona 3|Alerta, 35 C° Temperatura Alta! ||2026/04/10 | 22:09:23
+zona 3|21 C° Temperatura Normal!|zona 3|21 C° Temperatura Normal!| 2026/04/10 | 22:13:39|2026/04/10 | 22:13:39
+zona 3|Alerta, 33 C° Temperatura Alta! |zona 3|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:13:41|2026/04/10 | 22:13:41
+zona 3|Alerta, 38 C° Temperatura Alta! |zona 3|Alerta, 38 C° Temperatura Alta! | 2026/04/10 | 22:13:43|2026/04/10 | 22:13:43
+zona 3|Alerta, 38 C° Temperatura Alta! |zona 3|Alerta, 38 C° Temperatura Alta! | 2026/04/10 | 22:13:45|2026/04/10 | 22:13:45
+zona 3|23 C° Temperatura Normal!|zona 3|23 C° Temperatura Normal!| 2026/04/10 | 22:13:50|2026/04/10 | 22:13:50
+zona 3|28 C° Temperatura Normal!|zona 3|28 C° Temperatura Normal!| 2026/04/10 | 22:13:52|2026/04/10 | 22:13:52
+zona 3|21 C° Temperatura Normal!|zona 3|21 C° Temperatura Normal!| 2026/04/10 | 22:13:54|2026/04/10 | 22:13:54
+zona 3|25 C° Temperatura Normal!|zona 3|25 C° Temperatura Normal!| 2026/04/10 | 22:13:56|2026/04/10 | 22:13:56
+zona 3|Alerta, 36 C° Temperatura Alta! |zona 3|Alerta, 36 C° Temperatura Alta! | 2026/04/10 | 22:13:58|2026/04/10 | 22:13:58
+zona 3|Alerta, 33 C° Temperatura Alta! |zona 3|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:14:00|2026/04/10 | 22:14:00
+zona 3|27 C° Temperatura Normal!|zona 3|27 C° Temperatura Normal!| 2026/04/10 | 22:14:02|2026/04/10 | 22:14:02
+zona 3|28 C° Temperatura Normal!|zona 3|28 C° Temperatura Normal!| 2026/04/10 | 22:14:04|2026/04/10 | 22:14:04
+zona 3|22 C° Temperatura Normal!|zona 3|22 C° Temperatura Normal!| 2026/04/10 | 22:14:06|2026/04/10 | 22:14:06
+zona 3|21 C° Temperatura Normal!|zona 3|21 C° Temperatura Normal!| 2026/04/10 | 22:14:08|2026/04/10 | 22:14:08
+zona 3|Alerta, 40 C° Temperatura Alta! |zona 3|Alerta, 40 C° Temperatura Alta! | 2026/04/10 | 22:14:10|2026/04/10 | 22:14:10
+zona 3|29 C° Temperatura Normal!|zona 3|29 C° Temperatura Normal!| 2026/04/10 | 22:14:12|2026/04/10 | 22:14:12
+zona 3|24 C° Temperatura Normal!|zona 3|24 C° Temperatura Normal!| 2026/04/10 | 22:14:28|2026/04/10 | 22:14:28
+zona 3|Alerta, 31 C° Temperatura Alta! |zona 3|Alerta, 31 C° Temperatura Alta! | 2026/04/10 | 22:14:30|2026/04/10 | 22:14:30
+zona 3|22 C° Temperatura Normal!|zona 3|22 C° Temperatura Normal!| 2026/04/10 | 22:14:32|2026/04/10 | 22:14:32
+zona 3|Alerta, 39 C° Temperatura Alta! |zona 3|Alerta, 39 C° Temperatura Alta! | 2026/04/10 | 22:14:34|2026/04/10 | 22:14:34
+zona 3|Alerta, 33 C° Temperatura Alta! |zona 3|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:14:40|2026/04/10 | 22:14:40
+zona 3|30 C° Temperatura Normal!|zona 3|30 C° Temperatura Normal!| 2026/04/10 | 22:14:42|2026/04/10 | 22:14:42
+zona 3|24 C° Temperatura Normal!|zona 3|24 C° Temperatura Normal!| 2026/04/10 | 22:14:44|2026/04/10 | 22:14:44
+zona 3|28 C° Temperatura Normal!|zona 3|28 C° Temperatura Normal!| 2026/04/10 | 22:14:46|2026/04/10 | 22:14:46
+zona 3|Alerta, 38 C° Temperatura Alta! |zona 3|Alerta, 38 C° Temperatura Alta! | 2026/04/10 | 22:14:48|2026/04/10 | 22:14:48
+zona 3|Alerta, 37 C° Temperatura Alta! |zona 3|Alerta, 37 C° Temperatura Alta! | 2026/04/10 | 22:14:50|2026/04/10 | 22:14:50
+Zona 3|21 C° Temperatura Normal!|Zona 3|21 C° Temperatura Normal!| 2026/04/10 | 22:15:56|2026/04/10 | 22:15:56
+Zona 3|Alerta, 34 C° Temperatura Alta! |Zona 3|Alerta, 34 C° Temperatura Alta! | 2026/04/10 | 22:15:58|2026/04/10 | 22:15:58
+Zona 3|Alerta, 40 C° Temperatura Alta! |Zona 3|Alerta, 40 C° Temperatura Alta! | 2026/04/10 | 22:16:00|2026/04/10 | 22:16:00
+Zona 3|26 C° Temperatura Normal!|Zona 3|26 C° Temperatura Normal!| 2026/04/10 | 22:16:02|2026/04/10 | 22:16:02
+Zona 3|24 C° Temperatura Normal!|Zona 3|24 C° Temperatura Normal!| 2026/04/10 | 22:16:04|2026/04/10 | 22:16:04
+Zona 3|20 C° Temperatura Normal!|Zona 3|20 C° Temperatura Normal!| 2026/04/10 | 22:16:09|2026/04/10 | 22:16:09
+Zona 3|22 C° Temperatura Normal!|Zona 3|22 C° Temperatura Normal!| 2026/04/10 | 22:16:11|2026/04/10 | 22:16:11
+Zona 3|24 C° Temperatura Normal!|Zona 3|24 C° Temperatura Normal!| 2026/04/10 | 22:16:13|2026/04/10 | 22:16:13
+Zona 3|28 C° Temperatura Normal!|Zona 3|28 C° Temperatura Normal!| 2026/04/10 | 22:16:15|2026/04/10 | 22:16:15
+Zona 3|29 C° Temperatura Normal!|Zona 3|29 C° Temperatura Normal!| 2026/04/10 | 22:16:17|2026/04/10 | 22:16:17
+Zona 3|Alerta, 33 C° Temperatura Alta! |Zona 3|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:16:19|2026/04/10 | 22:16:19
+Zona 3|Alerta, 38 C° Temperatura Alta! |Zona 3|Alerta, 38 C° Temperatura Alta! | 2026/04/10 | 22:16:21|2026/04/10 | 22:16:21
+Zona 3|26 C° Temperatura Normal!|Zona 3|26 C° Temperatura Normal!| 2026/04/10 | 22:16:23|2026/04/10 | 22:16:23
+Zona 3|22 C° Temperatura Normal!|Zona 3|22 C° Temperatura Normal!| 2026/04/10 | 22:16:25|2026/04/10 | 22:16:25
+Zona 3|23 C° Temperatura Normal!|Zona 3|23 C° Temperatura Normal!| 2026/04/10 | 22:16:27|2026/04/10 | 22:16:27
+Zona 3|28 C° Temperatura Normal!|Zona 3|28 C° Temperatura Normal!| 2026/04/10 | 22:17:04|2026/04/10 | 22:17:04
+Zona 3|Alerta, 33 C° Temperatura Alta! |Zona 3|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:17:06|2026/04/10 | 22:17:06
+Zona 3|20 C° Temperatura Normal!|Zona 3|20 C° Temperatura Normal!| 2026/04/10 | 22:17:08|2026/04/10 | 22:17:08
+Zona 3|23 C° Temperatura Normal!|Zona 3|23 C° Temperatura Normal!| 2026/04/10 | 22:17:10|2026/04/10 | 22:17:10
+Zona 3|Alerta, 32 C° Temperatura Alta! |Zona 3|Alerta, 32 C° Temperatura Alta! | 2026/04/10 | 22:17:12|2026/04/10 | 22:17:12
+Zona 3|Alerta, 39 C° Temperatura Alta! |Zona 3|Alerta, 39 C° Temperatura Alta! | 2026/04/10 | 22:17:14|2026/04/10 | 22:17:14
+Zona 3|28 C° Temperatura Normal!|Zona 3|28 C° Temperatura Normal!| 2026/04/10 | 22:17:16|2026/04/10 | 22:17:16
+Zona 3|28 C° Temperatura Normal!|Zona 3|28 C° Temperatura Normal!| 2026/04/10 | 22:17:21|2026/04/10 | 22:17:21
+Zona 3|30 C° Temperatura Normal!|Zona 3|30 C° Temperatura Normal!| 2026/04/10 | 22:17:23|2026/04/10 | 22:17:23
+Zona 3|Alerta, 36 C° Temperatura Alta! |Zona 3|Alerta, 36 C° Temperatura Alta! | 2026/04/10 | 22:17:25|2026/04/10 | 22:17:25
+Zona 3|Alerta, 33 C° Temperatura Alta! |Zona 3|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:17:27|2026/04/10 | 22:17:27
+Zona 3|27 C° Temperatura Normal!|Zona 3|27 C° Temperatura Normal!| 2026/04/10 | 22:17:29|2026/04/10 | 22:17:29
+Zona 1|Alerta, 37 C° Temperatura Alta! |Zona 1|Alerta, 37 C° Temperatura Alta! | 2026/04/10 | 22:17:45|2026/04/10 | 22:17:45
+ Zona 2|Alerta, 34 C° Temperatura Alta! | Zona 2|Alerta, 34 C° Temperatura Alta! | 2026/04/10 | 22:17:45|2026/04/10 | 22:17:45
+Zona 3|Alerta, 33 C° Temperatura Alta! |Zona 3|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:17:45|2026/04/10 | 22:17:45
+Zona 1|27 C° Temperatura Normal!|Zona 1|27 C° Temperatura Normal!| 2026/04/10 | 22:17:47|2026/04/10 | 22:17:47
+ Zona 2|28 C° Temperatura Normal!| Zona 2|28 C° Temperatura Normal!| 2026/04/10 | 22:17:47|2026/04/10 | 22:17:47
+Zona 3|Alerta, 33 C° Temperatura Alta! |Zona 3|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:17:47|2026/04/10 | 22:17:47
+Zona 1|23 C° Temperatura Normal!|Zona 1|23 C° Temperatura Normal!| 2026/04/10 | 22:17:49|2026/04/10 | 22:17:49
+ Zona 2|27 C° Temperatura Normal!| Zona 2|27 C° Temperatura Normal!| 2026/04/10 | 22:17:49|2026/04/10 | 22:17:49
+Zona 3|24 C° Temperatura Normal!|Zona 3|24 C° Temperatura Normal!| 2026/04/10 | 22:17:49|2026/04/10 | 22:17:49
+Zona 1|Alerta, 36 C° Temperatura Alta! |Zona 1|Alerta, 36 C° Temperatura Alta! | 2026/04/10 | 22:17:51|2026/04/10 | 22:17:51
+ Zona 2|30 C° Temperatura Normal!| Zona 2|30 C° Temperatura Normal!| 2026/04/10 | 22:17:51|2026/04/10 | 22:17:51
+Zona 3|Alerta, 36 C° Temperatura Alta! |Zona 3|Alerta, 36 C° Temperatura Alta! | 2026/04/10 | 22:17:51|2026/04/10 | 22:17:51
+Zona 1|30 C° Temperatura Normal!|Zona 1|30 C° Temperatura Normal!| 2026/04/10 | 22:17:56|2026/04/10 | 22:17:56
+ Zona 2|28 C° Temperatura Normal!| Zona 2|28 C° Temperatura Normal!| 2026/04/10 | 22:17:56|2026/04/10 | 22:17:56
+Zona 3|Alerta, 36 C° Temperatura Alta! |Zona 3|Alerta, 36 C° Temperatura Alta! | 2026/04/10 | 22:17:56|2026/04/10 | 22:17:56
+Zona 1|Alerta, 33 C° Temperatura Alta! |Zona 1|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:17:58|2026/04/10 | 22:17:58
+ Zona 2|30 C° Temperatura Normal!| Zona 2|30 C° Temperatura Normal!| 2026/04/10 | 22:17:58|2026/04/10 | 22:17:58
+Zona 3|Alerta, 37 C° Temperatura Alta! |Zona 3|Alerta, 37 C° Temperatura Alta! | 2026/04/10 | 22:17:58|2026/04/10 | 22:17:58
+Zona 1|25 C° Temperatura Normal!|Zona 1|25 C° Temperatura Normal!| 2026/04/10 | 22:18:00|2026/04/10 | 22:18:00
+ Zona 2|26 C° Temperatura Normal!| Zona 2|26 C° Temperatura Normal!| 2026/04/10 | 22:18:00|2026/04/10 | 22:18:00
+Zona 3|Alerta, 33 C° Temperatura Alta! |Zona 3|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:18:00|2026/04/10 | 22:18:00
+Zona 1|24 C° Temperatura Normal!|Zona 1|24 C° Temperatura Normal!| 2026/04/10 | 22:18:02|2026/04/10 | 22:18:02
+ Zona 2|21 C° Temperatura Normal!| Zona 2|21 C° Temperatura Normal!| 2026/04/10 | 22:18:02|2026/04/10 | 22:18:02
+Zona 3|28 C° Temperatura Normal!|Zona 3|28 C° Temperatura Normal!| 2026/04/10 | 22:18:02|2026/04/10 | 22:18:02
+Zona 1|28 C° Temperatura Normal!|Zona 1|28 C° Temperatura Normal!| 2026/04/10 | 22:18:04|2026/04/10 | 22:18:04
+ Zona 2|Alerta, 34 C° Temperatura Alta! | Zona 2|Alerta, 34 C° Temperatura Alta! | 2026/04/10 | 22:18:04|2026/04/10 | 22:18:04
+Zona 3|20 C° Temperatura Normal!|Zona 3|20 C° Temperatura Normal!| 2026/04/10 | 22:18:04|2026/04/10 | 22:18:04
+Zona 1|Alerta, 32 C° Temperatura Alta! |Zona 1|Alerta, 32 C° Temperatura Alta! | 2026/04/10 | 22:18:06|2026/04/10 | 22:18:06
+ Zona 2|Alerta, 36 C° Temperatura Alta! | Zona 2|Alerta, 36 C° Temperatura Alta! | 2026/04/10 | 22:18:06|2026/04/10 | 22:18:06
+Zona 3|20 C° Temperatura Normal!|Zona 3|20 C° Temperatura Normal!| 2026/04/10 | 22:18:06|2026/04/10 | 22:18:06
+Zona 1|Alerta, 33 C° Temperatura Alta! |Zona 1|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:18:08|2026/04/10 | 22:18:08
+ Zona 2|Alerta, 39 C° Temperatura Alta! | Zona 2|Alerta, 39 C° Temperatura Alta! | 2026/04/10 | 22:18:08|2026/04/10 | 22:18:08
+Zona 3|Alerta, 36 C° Temperatura Alta! |Zona 3|Alerta, 36 C° Temperatura Alta! | 2026/04/10 | 22:18:08|2026/04/10 | 22:18:08
+Zona 1|30 C° Temperatura Normal!|Zona 1|30 C° Temperatura Normal!| 2026/04/10 | 22:18:10|2026/04/10 | 22:18:10
+ Zona 2|Alerta, 39 C° Temperatura Alta! | Zona 2|Alerta, 39 C° Temperatura Alta! | 2026/04/10 | 22:18:10|2026/04/10 | 22:18:10
+Zona 3|30 C° Temperatura Normal!|Zona 3|30 C° Temperatura Normal!| 2026/04/10 | 22:18:10|2026/04/10 | 22:18:10
+Zona 1|27 C° Temperatura Normal!|Zona 1|27 C° Temperatura Normal!| 2026/04/10 | 22:18:12|2026/04/10 | 22:18:12
+ Zona 2|28 C° Temperatura Normal!| Zona 2|28 C° Temperatura Normal!| 2026/04/10 | 22:18:12|2026/04/10 | 22:18:12
+Zona 3|Alerta, 34 C° Temperatura Alta! |Zona 3|Alerta, 34 C° Temperatura Alta! | 2026/04/10 | 22:18:12|2026/04/10 | 22:18:12
+Zona 1|Alerta, 33 C° Temperatura Alta! |Zona 1|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:18:14|2026/04/10 | 22:18:14
+ Zona 2|Alerta, 38 C° Temperatura Alta! | Zona 2|Alerta, 38 C° Temperatura Alta! | 2026/04/10 | 22:18:14|2026/04/10 | 22:18:14
+Zona 3|30 C° Temperatura Normal!|Zona 3|30 C° Temperatura Normal!| 2026/04/10 | 22:18:14|2026/04/10 | 22:18:14
+Zona 1|28 C° Temperatura Normal!|Zona 1|28 C° Temperatura Normal!| 2026/04/10 | 22:18:16|2026/04/10 | 22:18:16
+ Zona 2|27 C° Temperatura Normal!| Zona 2|27 C° Temperatura Normal!| 2026/04/10 | 22:18:16|2026/04/10 | 22:18:16
+Zona 3|Alerta, 39 C° Temperatura Alta! |Zona 3|Alerta, 39 C° Temperatura Alta! | 2026/04/10 | 22:18:16|2026/04/10 | 22:18:16
+Zona 1|Alerta, 34 C° Temperatura Alta! |Zona 1|Alerta, 34 C° Temperatura Alta! | 2026/04/10 | 22:18:18|2026/04/10 | 22:18:18
+ Zona 2|27 C° Temperatura Normal!| Zona 2|27 C° Temperatura Normal!| 2026/04/10 | 22:18:18|2026/04/10 | 22:18:18
+Zona 3|30 C° Temperatura Normal!|Zona 3|30 C° Temperatura Normal!| 2026/04/10 | 22:18:18|2026/04/10 | 22:18:18
+Zona 1|Alerta, 34 C° Temperatura Alta! |Zona 1|Alerta, 34 C° Temperatura Alta! | 2026/04/10 | 22:18:20|2026/04/10 | 22:18:20
+ Zona 2|26 C° Temperatura Normal!| Zona 2|26 C° Temperatura Normal!| 2026/04/10 | 22:18:20|2026/04/10 | 22:18:20
+Zona 3|28 C° Temperatura Normal!|Zona 3|28 C° Temperatura Normal!| 2026/04/10 | 22:18:20|2026/04/10 | 22:18:20
+Zona 1|Alerta, 34 C° Temperatura Alta! |Zona 1|Alerta, 34 C° Temperatura Alta! | 2026/04/10 | 22:18:22|2026/04/10 | 22:18:22
+ Zona 2|Alerta, 34 C° Temperatura Alta! | Zona 2|Alerta, 34 C° Temperatura Alta! | 2026/04/10 | 22:18:22|2026/04/10 | 22:18:22
+Zona 3|29 C° Temperatura Normal!|Zona 3|29 C° Temperatura Normal!| 2026/04/10 | 22:18:22|2026/04/10 | 22:18:22
+Zona 1|20 C° Temperatura Normal!|Zona 1|20 C° Temperatura Normal!| 2026/04/10 | 22:18:24|2026/04/10 | 22:18:24
+ Zona 2|Alerta, 38 C° Temperatura Alta! | Zona 2|Alerta, 38 C° Temperatura Alta! | 2026/04/10 | 22:18:24|2026/04/10 | 22:18:24
+Zona 3|21 C° Temperatura Normal!|Zona 3|21 C° Temperatura Normal!| 2026/04/10 | 22:18:24|2026/04/10 | 22:18:24
+Zona 1|Alerta, 36 C° Temperatura Alta! |Zona 1|Alerta, 36 C° Temperatura Alta! | 2026/04/10 | 22:18:41|2026/04/10 | 22:18:41
+ Zona 2|Alerta, 32 C° Temperatura Alta! | Zona 2|Alerta, 32 C° Temperatura Alta! | 2026/04/10 | 22:18:41|2026/04/10 | 22:18:41
+Zona 3|20 C° Temperatura Normal!|Zona 3|20 C° Temperatura Normal!| 2026/04/10 | 22:18:41|2026/04/10 | 22:18:41
+Zona 1|20 C° Temperatura Normal!|Zona 1|20 C° Temperatura Normal!| 2026/04/10 | 22:18:47|2026/04/10 | 22:18:47
+ Zona 2|Alerta, 31 C° Temperatura Alta! | Zona 2|Alerta, 31 C° Temperatura Alta! | 2026/04/10 | 22:18:47|2026/04/10 | 22:18:47
+Zona 3|Alerta, 32 C° Temperatura Alta! |Zona 3|Alerta, 32 C° Temperatura Alta! | 2026/04/10 | 22:18:47|2026/04/10 | 22:18:47
+Zona 1|23 C° Temperatura Normal!|Zona 1|23 C° Temperatura Normal!| 2026/04/10 | 22:18:53|2026/04/10 | 22:18:53
+ Zona 2|Alerta, 35 C° Temperatura Alta! | Zona 2|Alerta, 35 C° Temperatura Alta! | 2026/04/10 | 22:18:53|2026/04/10 | 22:18:53
+Zona 3|21 C° Temperatura Normal!|Zona 3|21 C° Temperatura Normal!| 2026/04/10 | 22:18:53|2026/04/10 | 22:18:53
+Zona 1|26 C° Temperatura Normal!|Zona 1|26 C° Temperatura Normal!| 2026/04/10 | 22:18:59|2026/04/10 | 22:18:59
+ Zona 2|Alerta, 36 C° Temperatura Alta! | Zona 2|Alerta, 36 C° Temperatura Alta! | 2026/04/10 | 22:18:59|2026/04/10 | 22:18:59
+Zona 3|20 C° Temperatura Normal!|Zona 3|20 C° Temperatura Normal!| 2026/04/10 | 22:18:59|2026/04/10 | 22:18:59
+Zona 1|25 C° Temperatura Normal!|Zona 1|25 C° Temperatura Normal!| 2026/04/10 | 22:19:08|2026/04/10 | 22:19:08
+ Zona 2|Alerta, 39 C° Temperatura Alta! | Zona 2|Alerta, 39 C° Temperatura Alta! | 2026/04/10 | 22:19:08|2026/04/10 | 22:19:08
+Zona 3|Alerta, 34 C° Temperatura Alta! |Zona 3|Alerta, 34 C° Temperatura Alta! | 2026/04/10 | 22:19:08|2026/04/10 | 22:19:08
+Zona 1|30 C° Temperatura Normal!|Zona 1|30 C° Temperatura Normal!| 2026/04/10 | 22:19:14|2026/04/10 | 22:19:14
+ Zona 2|20 C° Temperatura Normal!| Zona 2|20 C° Temperatura Normal!| 2026/04/10 | 22:19:14|2026/04/10 | 22:19:14
+Zona 3|Alerta, 37 C° Temperatura Alta! |Zona 3|Alerta, 37 C° Temperatura Alta! | 2026/04/10 | 22:19:14|2026/04/10 | 22:19:14
+Zona 1|25 C° Temperatura Normal!|Zona 1|25 C° Temperatura Normal!| 2026/04/10 | 22:19:20|2026/04/10 | 22:19:20
+ Zona 2|Alerta, 38 C° Temperatura Alta! | Zona 2|Alerta, 38 C° Temperatura Alta! | 2026/04/10 | 22:19:20|2026/04/10 | 22:19:20
+Zona 3|29 C° Temperatura Normal!|Zona 3|29 C° Temperatura Normal!| 2026/04/10 | 22:19:20|2026/04/10 | 22:19:20
+Zona 1|28 C° Temperatura Normal!|Zona 1|28 C° Temperatura Normal!| 2026/04/10 | 22:19:26|2026/04/10 | 22:19:26
+ Zona 2|Alerta, 37 C° Temperatura Alta! | Zona 2|Alerta, 37 C° Temperatura Alta! | 2026/04/10 | 22:19:26|2026/04/10 | 22:19:26
+Zona 3|Alerta, 33 C° Temperatura Alta! |Zona 3|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:19:26|2026/04/10 | 22:19:26
+Zona 1|27 C° Temperatura Normal!|Zona 1|27 C° Temperatura Normal!| 2026/04/10 | 22:19:32|2026/04/10 | 22:19:32
+ Zona 2|26 C° Temperatura Normal!| Zona 2|26 C° Temperatura Normal!| 2026/04/10 | 22:19:32|2026/04/10 | 22:19:32
+Zona 3|Alerta, 33 C° Temperatura Alta! |Zona 3|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:19:32|2026/04/10 | 22:19:32
+Zona 1|29 C° Temperatura Normal!|Zona 1|29 C° Temperatura Normal!| 2026/04/10 | 22:19:41|2026/04/10 | 22:19:41
+ Zona 2|Alerta, 38 C° Temperatura Alta! | Zona 2|Alerta, 38 C° Temperatura Alta! | 2026/04/10 | 22:19:41|2026/04/10 | 22:19:41
+Zona 3|Alerta, 32 C° Temperatura Alta! |Zona 3|Alerta, 32 C° Temperatura Alta! | 2026/04/10 | 22:19:41|2026/04/10 | 22:19:41
+Zona 1|27 C° Temperatura Normal!|Zona 1|27 C° Temperatura Normal!| 2026/04/10 | 22:19:47|2026/04/10 | 22:19:47
+ Zona 2|21 C° Temperatura Normal!| Zona 2|21 C° Temperatura Normal!| 2026/04/10 | 22:19:47|2026/04/10 | 22:19:47
+Zona 3|Alerta, 36 C° Temperatura Alta! |Zona 3|Alerta, 36 C° Temperatura Alta! | 2026/04/10 | 22:19:47|2026/04/10 | 22:19:47
+Zona 1|Alerta, 37 C° Temperatura Alta! | 2026/04/10 | 22:26:52
+Zona 2|Alerta, 40 C° Temperatura Alta! | 2026/04/10 | 22:26:52
+Zona 3|Alerta, 31 C° Temperatura Alta! | 2026/04/10 | 22:26:52
+Zona 1|Alerta, 35 C° Temperatura Alta! | 2026/04/10 | 22:26:58
+Zona 2|22 C° Temperatura Normal!| 2026/04/10 | 22:26:58
+Zona 3|29 C° Temperatura Normal!| 2026/04/10 | 22:26:58
+Zona 1|Alerta, 34 C° Temperatura Alta! | 2026/04/10 | 22:27:04
+Zona 2|26 C° Temperatura Normal!| 2026/04/10 | 22:27:04
+Zona 3|25 C° Temperatura Normal!| 2026/04/10 | 22:27:04
+Zona 1|Alerta, 36 C° Temperatura Alta! | 2026/04/10 | 22:51:00
+Zona 2|Alerta, 33 C° Temperatura Alta! | 2026/04/10 | 22:51:00
+Zona 3|Alerta, 36 C° Temperatura Alta! | 2026/04/10 | 22:51:00
+Zona 1|Alerta, 32 C° Temperatura Alta! | 2026/04/10 | 22:51:06
+Zona 2|23 C° Temperatura Normal!| 2026/04/10 | 22:51:06
+Zona 3|23 C° Temperatura Normal!| 2026/04/10 | 22:51:06
+Zona 1|30 C° Temperatura Normal!| 2026/04/10 | 22:51:12
+Zona 2|27 C° Temperatura Normal!| 2026/04/10 | 22:51:12
+Zona 3|26 C° Temperatura Normal!| 2026/04/10 | 22:51:12
+Zona 1|Alerta, 32 C° Temperatura Alta! | 2026/04/10 | 22:51:21
+Zona 2|27 C° Temperatura Normal!| 2026/04/10 | 22:51:21

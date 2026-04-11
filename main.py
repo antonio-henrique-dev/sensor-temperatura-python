@@ -2,6 +2,8 @@ from datetime import datetime
 import random
 import time
 
+zonas = ["Zona 1", "Zona 2", "Zona 3"]
+
 def gerar_temperatura():
     return random.randint(20, 40)
 
@@ -24,9 +26,15 @@ while True:
     agora = datetime.now()
     data_formatada = agora.strftime("%Y/%m/%d | %H:%M:%S")
 
+    for zona in zonas:
+        temp = gerar_temperatura()
+        status = verificar_temperatura(temp)
+        mensagem = f"{zona}|{status}| {data_formatada}"
 
-    print(f'{mensagem} | Total de Alerta: {contador_alerta} | {data_formatada}' )
+
+        print(f'{mensagem}')
        
-    salvar_log(f'{mensagem}|{data_formatada}')
+        salvar_log(mensagem)
+        print("-"*65)
     
-    time.sleep(2)
+        time.sleep(2)
