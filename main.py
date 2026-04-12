@@ -17,23 +17,26 @@ def verificar_temperatura(temp):
 def salvar_log(mensagem):
     with open('log.txt', 'a') as f:
         f.write(mensagem + '\n')
-contador_alerta = 0
+contador_alertas = {"Zona 1":0,
+                    "Zona 2":0,
+                    "Zona 3":0
+}
 while True:
-    temperatura = gerar_temperatura()
-    mensagem = verificar_temperatura(temperatura)
-    if temperatura > 30:
-        contador_alerta += 1
+        
     agora = datetime.now()
     data_formatada = agora.strftime("%Y/%m/%d | %H:%M:%S")
-
+    
     for zona in zonas:
         temp = gerar_temperatura()
         status = verificar_temperatura(temp)
-        mensagem = f"{zona}|{status}| {data_formatada}"
+        
 
+        if temp > 30:
+            contador_alertas[zona] += 1
 
+        mensagem = f"{zona} | {status} | Alerta: {contador_alertas[zona]} | {data_formatada}"
+        
         print(f'{mensagem}')
-       
         salvar_log(mensagem)
         print("-"*65)
     
