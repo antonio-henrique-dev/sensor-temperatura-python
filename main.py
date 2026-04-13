@@ -19,8 +19,12 @@ def salvar_log(mensagem):
         f.write(mensagem + '\n')
 contador_alertas = {"Zona 1":0,
                     "Zona 2":0,
-                    "Zona 3":0
-}
+                    "Zona 3":0}
+
+limites = {"Zona 1": 30,
+           "Zona 2": 35,
+           "Zona 3": 28}
+
 while True:
         
     agora = datetime.now()
@@ -28,16 +32,19 @@ while True:
     
     for zona in zonas:
         temp = gerar_temperatura()
-        status = verificar_temperatura(temp)
+        limite = limites[zona]
         
 
-        if temp > 30:
+        if temp > limite:
             contador_alertas[zona] += 1
+            status = f'Alerta, {temp} C° (Limite {limite}° )'
+        else:
+            status = f'Normal, {temp} C° (Limite {limite}° )'
 
         mensagem = f"{zona} | {status} | Alerta: {contador_alertas[zona]} | {data_formatada}"
         
         print(f'{mensagem}')
         salvar_log(mensagem)
-        print("-"*65)
+        print("-"*75)
     
         time.sleep(2)
