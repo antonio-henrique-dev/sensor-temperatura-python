@@ -29,22 +29,32 @@ while True:
         
     agora = datetime.now()
     data_formatada = agora.strftime("%Y/%m/%d | %H:%M:%S")
-    
+
     for zona in zonas:
         temp = gerar_temperatura()
         limite = limites[zona]
+    
         
-
         if temp > limite:
             contador_alertas[zona] += 1
             status = f'Alerta, {temp} C° (Limite {limite}° )'
         else:
             status = f'Normal, {temp} C° (Limite {limite}° )'
-
-        mensagem = f"{zona} | {status} | Alerta: {contador_alertas[zona]} | {data_formatada}"
         
+        mensagem = f"{zona} | {status} | Alerta: {contador_alertas[zona]} | {data_formatada}"
         print(f'{mensagem}')
         salvar_log(mensagem)
         print("-"*75)
-    
         time.sleep(2)
+
+    print("\n" + "="*30)
+    print("=====RESUMO GERAL=====")
+    print("="*30)
+    for zona in zonas:
+        print(f"{zona}: {contador_alertas [zona]} alertas")
+    print("="*30 + "\n" )
+
+        
+    
+        
+    
