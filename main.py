@@ -17,6 +17,10 @@ def verificar_temperatura(temp):
 def salvar_log(mensagem):
     with open('log.txt', 'a') as f:
         f.write(mensagem + '\n')
+        
+def formatar_log(zona, temp, limite, alerta, total_alerta, data):
+    return  f"{data} | {zona} | TEMP= {temp} | LIMITE= {limite} | STATUS= {alerta} | TOTAL-ALERTAS= {total_alerta}"
+
 contador_alertas = {"Zona 1":0,
                     "Zona 2":0,
                     "Zona 3":0}
@@ -37,14 +41,15 @@ while True:
         
         if temp > limite:
             contador_alertas[zona] += 1
-            status = f'Alerta, {temp} C° (Limite {limite}° )'
+            alerta = 'ALERTA'
         else:
-            status = f'Normal, {temp} C° (Limite {limite}° )'
+            alerta = 'NORMAL'
         
-        mensagem = f"{zona} | {status} | Alerta: {contador_alertas[zona]} | {data_formatada}"
+        mensagem = formatar_log(zona, temp, limite, alerta, contador_alertas[zona], data_formatada)
+        
         print(f'{mensagem}')
         salvar_log(mensagem)
-        print("-"*75)
+        print("-"*90)
         time.sleep(2)
 
     print("\n" + "="*30)
